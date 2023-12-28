@@ -20,8 +20,8 @@ A combinational circuit is a circuit in which the output depends on the present 
 ## Procedure
 /*
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by:  SOWMIA R
+RegisterNumber: 212223050052 
 */
 1. Create a New Project:
 Open Quartus and create a new project by selecting "File" > "New Project Wizard." Follow the wizard's instructions to set up your project, including specifying the project name, location, and target device (FPGA).
